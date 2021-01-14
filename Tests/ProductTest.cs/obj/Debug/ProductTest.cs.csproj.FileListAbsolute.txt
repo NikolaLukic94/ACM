@@ -1,0 +1,14 @@
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\ProductTest.cs.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\ProductTest.cs.pdb
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.csprojAssemblyReference.cache
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.csproj.CopyComplete
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.pdb
