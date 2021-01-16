@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DF4FF0AC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "Tests\ACM.BLTest\ACM.BLTest.csproj", "{82BE7506-86D7-48A7-A4EA-B4042E310693}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductTest.cs", "Tests\ProductTest.cs\ProductTest.cs.csproj", "{AF55647E-E5BB-49FC-B897-B2E913BE197E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductTest.BLTest", "Tests\ProductTest.cs\ProductTest.BLTest.csproj", "{AF55647E-E5BB-49FC-B897-B2E913BE197E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

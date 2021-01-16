@@ -1,0 +1,4 @@
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.BLTest.csprojAssemblyReference.cache
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.BLTest.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.dll
+D:\Users\Administrator\source\repos\ACM\Tests\ProductTest.cs\obj\Debug\ProductTest.cs.pdb

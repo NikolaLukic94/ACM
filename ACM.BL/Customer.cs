@@ -8,14 +8,21 @@ namespace ACM.BL
 {
     public class Customer
     {
-        public Customer()
+        public Customer(): this(0)
         {
 
         }
         public Customer(int customerId)
         {
             CustomerId = customerId;
+            AddressList = new List<Address>();
         }
+
+        public int CustomerType { get; set; }
+
+        public List<Address> AddressList { get; set; }
+        //public Address WorkAddress { get; set; }
+        //public Address HomeAddress { get; set; }
 
         // shortcut is propg + tab + tab for creating getter w/o setter
         public int CustomerId { get; private set; }
@@ -64,16 +71,6 @@ namespace ACM.BL
             if (string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
 
             return isValid;
-        }
-
-        public bool Save()
-        {
-            return true;
-        }
-
-        public Customer Retrieve(int customerId)
-        {
-            return new Customer();
         }
 
         public List<Customer> Retrieve()
