@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Acme.CommonTest
 {
     [TestClass]
-    public class StringHandlerTest
+    public  class StringHandlerTest
     {
         [TestMethod]
         public void InsertSpacesTestValid()
